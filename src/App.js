@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        <p>New Insertion</p>
         
         <a
           className="App-link"
